@@ -1,0 +1,29 @@
+{
+  "name": "eslint-plugin-graphql-optimistic-response",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "optimistic response rull for mutations",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bl42/eslint-plugin-graphql-optimistic-response.git"
+  },
+  "keywords": [
+    "graphql",
+    "apollo",
+    "optimistic",
+    "optimisticResponse",
+    "eslint",
+    "rule"
+  ],
+  "author": "Benjamin Lacy <benlacy5@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bl42/eslint-plugin-graphql-optimistic-response/issues"
+  },
+  "homepage": "https://github.com/bl42/eslint-plugin-graphql-optimistic-response#readme"
+}
